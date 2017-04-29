@@ -1,0 +1,12 @@
+img {
+    height: 900%;
+    width: 100%;
+}
+body{
+    background-color: #b3ecec;
+}
+h1 {
+ Text-align: center;
+ font-family: 'Ubuntu Condensed', sans-serif;
+ font-size: 60px;
+}

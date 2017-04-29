@@ -1,0 +1,20 @@
+css: img {
+    height: 400px;
+    width: 100%;
+    background-color: powderblue;
+}
+
+body{
+    background-color:#1b46b1;
+}
+
+h1{
+    font-family: 'lobster',cursive;
+}
+
+img {
+    margin-top: 60px;
+    margin-bottom: 100px;
+    margin-right: 80px;
+    margin-left: 80px;
+}

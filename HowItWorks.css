@@ -1,0 +1,25 @@
+body{
+    background-color:#b3ecec;
+}
+
+h1{
+    font-family: 'Bree Serif', serif;
+    font-size:46px;
+    text-align:center;
+    margin-top:100px;
+}
+
+.column_1 {
+    box-sizing:border-box;
+   width:25%; 
+   float:left;
+   padding:20px;
+   font-size:26px;
+   text-align:center;
+   
+}
+
+.image1{
+    width:100%;
+}
+

@@ -1,0 +1,40 @@
+*, *:before, *:after {box-sizing: border-box;} /* Magic by Kenrick :( */
+.columnone{
+    float: left;
+    width: 50%;
+}
+.columntwo{
+    float: left;
+    width: 50%;
+}
+.columnone{
+    text-align: right;
+    padding-right: 16px;
+}
+h1{
+    text-align: center;
+    font-size: 45px;
+}
+html{
+    background-color:#b3ecec;
+    font-family: 'Bree Serif', serif;
+}
+label{
+    border: 3px solid white;
+    border-radius: 10px;
+    /*margin: 2px;*/
+    /*padding: 4px;*/
+    width: 200px;
+    text-align: center;
+    padding: 5px;
+    display: inline-block; /* Magic by Kenrick :( */
+}
+:checked+label{
+    background-color:#ffa86f;
+}
+input{
+    visibility: hidden;
+}
+h2{
+    font-size: 30px;
+}
